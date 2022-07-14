@@ -4,7 +4,7 @@
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Manabi Technology</p>
-<p>👯 I want to collaborate on WorkTrix</p>
+<p>👯 I want to collaborate on WebLaudo</p>
 <p>🌱 I'm currently learning Clojure, Flutter</p>
 <p>📫 How to reach me? joao.santos@manabitechnology.com</p>
 
